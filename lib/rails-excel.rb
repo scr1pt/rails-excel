@@ -1,4 +1,4 @@
-require 'activesupport'
+require 'rails-excel'
 require "rails-excel/version"
 require 'rails-excel/delegation'
 require 'rails-excel/template_handler'
